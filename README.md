@@ -1,6 +1,8 @@
 # California Housing Price Prediction
 
 This project uses a Jupyter Notebook to predict housing prices in California based on various features, such as median income, house age, and average rooms, using a neural network regression model.
+
+
 [Overview](#overview)
 
 [Features](#features)
