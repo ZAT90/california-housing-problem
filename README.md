@@ -5,6 +5,8 @@ This project uses a Jupyter Notebook to predict housing prices in California bas
 
 [Overview](#overview)
 
+[Techniques Covered](#techniques-covered)
+
 [Features](#features)
 
 [Usage](#usage)
@@ -16,6 +18,12 @@ This project uses a Jupyter Notebook to predict housing prices in California bas
 
 ## OverView
 The goal of this project is to build a regression model to predict housing prices in California. Using a neural network model, the project predicts the median house value based on features like median income, house age, and average rooms. The notebook includes data loading, model training, and evaluation with Mean Squared Error (MSE).
+
+## Techniques Covered
+- Neural Network (for regression).
+- Regression: Predicting continuous values (house prices).
+- Model Evaluation: Mean Squared Error (MSE), Root Mean Squared Error (RMSE).
+- Data Preprocessing: Feature scaling, splitting data.
 
 ## Features
 - Neural Network Regression: A regression model using a neural network to predict continuous values (housing prices).
